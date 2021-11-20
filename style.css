@@ -242,9 +242,9 @@ body{
      color:#273c75;
    }
 
-   /* CSS for mobile (max-width: 420px) */
+   /* CSS for mobile (max-width: 425px) */
   
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 426px) {
   /* Whole body section */
     body {
         padding-left: 10%;
@@ -379,25 +379,25 @@ body{
   margin-right: 2%;
   position: absolute;
   top:340%;
-  right:-25%;
+  right:-5%;
 }
 
 .fa-facebook {
  position: absolute;
  top:340%;
- right:-55%;
+ right:-35%;
 }
 
 .fa-instagram {
  position: absolute;
  top:340%;
- right:-85%;
+ right:-65%;
 }
 
 .fa-linkedin-in {
  position: absolute;
  top:340%;
- right:-115%;
+ right:-95%;
 }
 
 /* fifth section */
